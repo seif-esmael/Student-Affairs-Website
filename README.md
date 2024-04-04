@@ -1,4 +1,4 @@
-# Student-Affairs-Website (Version 2 (without database))
+# Student-Affairs-Website (Version 1 (without database))
 
 * This website can be used in educational systems(High Schools, College..etc).
 
